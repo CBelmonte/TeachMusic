@@ -1,0 +1,18 @@
+H:\Documents\School\Prog\C#\Teach Music\Teach Music\bin\Debug\Teach Music.exe
+H:\Documents\School\Prog\C#\Teach Music\Teach Music\bin\Debug\Teach Music.pdb
+H:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+H:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\Teach Music.exe
+H:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\Teach Music.pdb
+E:\Documents\School\Prog\C#\Teach Music\Teach Music\bin\Debug\Teach Music.exe
+E:\Documents\School\Prog\C#\Teach Music\Teach Music\bin\Debug\Teach Music.pdb
+E:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\WindowsFormsApplication1.Main.resources
+E:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\Teach Music.exe
+E:\Documents\School\Prog\C#\Teach Music\Teach Music\obj\x86\Debug\Teach Music.pdb
